@@ -1,0 +1,7 @@
+pandas
+pylint
+pytest
+pytest-cov
+bs4
+requests
+python-dotenv
