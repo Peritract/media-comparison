@@ -5,3 +5,7 @@ pytest-cov
 bs4
 requests
 python-dotenv
+seaborn
+wordcloud
+nltk
+ipykernel
