@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 import requests as req
 import pandas as pd
 
+
 def load_rss_feed(url):
     """Returns RSS data as an XML tree."""
     res = req.get(url)
